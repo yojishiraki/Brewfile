@@ -8,12 +8,19 @@ brew brew-cask
 ## caskroom/versions
 tap caskroom/versions
 
+
 ## rcmdnk/file
 tap rcmdnk/file
 brew brew-file
 
 # Other Homebrew packages
 cask install java7
+cask install sublime-text3
+cask install iterm2
+cask install google-chrome
+cask install virtualbox
+cask install vagrant
+cask install alfred
 
 brew ansible
 brew autoconf
@@ -29,6 +36,8 @@ brew readline
 brew ruby-build
 brew sqlite
 brew xz
+
+
 
 # App Store applications
 appstore GarageBand

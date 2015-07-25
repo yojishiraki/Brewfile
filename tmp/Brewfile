@@ -1,0 +1,15 @@
+install ansible
+install autoconf
+install brew-cask
+install brew-file
+install gdbm
+install git-flow
+install libyaml
+install openssl
+install pkg-config
+install python3
+install rbenv
+install readline
+install ruby-build
+install sqlite
+install xz
